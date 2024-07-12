@@ -1,6 +1,6 @@
 syntax = "proto2";
 package grpcbuf;
-option go_package = "https://github.com/lambo-things/grpcBuf/;
+option go_package = "https://github.com/lambo-things/grpcBuf/grpcbuf;
 
 
 message Person {
